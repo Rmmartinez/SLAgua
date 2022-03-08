@@ -1,0 +1,4 @@
+nvm install v16
+npm install
+npm start
+
